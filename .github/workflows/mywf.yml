@@ -37,6 +37,8 @@ jobs:
 
       - name: Checkout code
         uses: action/checkout@v4
+        with:
+          ref: develop
 
       - name: Install dependencies
         run: 'mvn compile'
