@@ -1,7 +1,7 @@
 [![Continuous Integration](https://github.com/devops-fundamentals-templates/dofd-05-java-DZotsenko/actions/workflows/mywf.yml/badge.svg)](https://github.com/devops-fundamentals-templates/dofd-05-java-DZotsenko/actions/workflows/mywf.yml)
 
 ## Prerequisites:
-- Java JDK version 17+ should be installed in the system
+- Java JDK version 17+ should be installed in the system!
 
 Check it here https://www.oracle.com/java/technologies/downloads/#java17
 or here https://adoptium.net/temurin/releases/
